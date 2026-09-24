@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.xlsx
+.DS_Store
+v4.0 api namespaces/
